@@ -76,9 +76,9 @@ const quickLinkClass =
       <div class="page-content">
         {page.updated && <p>{page.intro}</p>}
           {
-            page.sections.map((section: ContentSection) => (
+            page.sections.map((section: ContentSection, index: number) => (
               <section id={slugify(section.heading)}>
-                <h2>{section.heading}</h2>
+                {index === 0 ? <h2>{section.heading}</h2> : <h3>{section.heading}</h3>}
                 {section.body && <p>{section.body}</p>}
                 {section.items && (
                   <ul>

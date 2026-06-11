@@ -582,7 +582,7 @@
   // IMAGE LOADING
   // ==========================================
   function imgUrl(cat, imgFile) {
-    return `/levels/${cat.name}/${imgFile}`;
+    return gameReadyImgUrl(cat, imgFile);
   }
 
   function gameReadyImgUrl(cat, imgFile) {
@@ -673,7 +673,6 @@
       const promise = loadFirstAvailableImage([
         gameReadyImgUrl(cat, imgFile),
         optimizedImgUrl(cat, imgFile),
-        imgUrl(cat, imgFile),
       ], cat.color, imgFile, fetchPriority);
       fullImagePreloadCache.set(cacheKey, promise);
     }

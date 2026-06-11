@@ -2,6 +2,7 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { externalGames, type ExternalGame } from "@/data/externalGames";
 import { brandAccentClass } from "@/data/accentClasses";
+import { Buffer } from "node:buffer";
 
 type Props = {
   game: ExternalGame;
@@ -42,6 +43,7 @@ const bentoGames = [
 const bentoGamesLeft = bentoGames.slice(0, 4);
 const bentoGamesRight = bentoGames.slice(4, 8);
 const gameSeoTitle = `Play ${game.title} Online - Free Browser Game`;
+const encodedIframeUrl = Buffer.from(game.iframeUrl, "utf8").toString("base64");
 ---
 
 <BaseLayout title={game.title} description={game.description} seo={{ path: `/games/${game.slug}`, seoTitle: gameSeoTitle }}>
@@ -65,8 +67,16 @@ const gameSeoTitle = `Play ${game.title} Online - Free Browser Game`;
         ))}
       </div>
 
-      <div class="embedded-game-frame">
-        <iframe src={game.iframeUrl} title={game.title} loading="eager" allow="autoplay; fullscreen *" allowfullscreen></iframe>
+      <div class="embedded-game-frame" data-external-game data-game-code={encodedIframeUrl}>
+        <iframe src="about:blank" title={game.title} loading="lazy" allow="autoplay; fullscreen *" allowfullscreen data-external-game-frame></iframe>
+        <div class="embedded-game-loader" data-external-game-loader>
+          <img src={game.thumbnail} alt={`${game.title} thumbnail`} width="640" height="360" loading="eager" />
+          <div>
+            <span>{game.category}</span>
+            <strong>{game.title}</strong>
+            <button type="button" class="primary-action" data-load-external-game><span class="play-triangle"></span>Play game</button>
+          </div>
+        </div>
       </div>
 
       <div class="game-bento-grid game-bento-grid-side" aria-label="Try next">
@@ -108,4 +118,22 @@ const gameSeoTitle = `Play ${game.title} Online - Free Browser Game`;
       </div>
     </section>
   </section>
+
+  <script is:inline>
+    (() => {
+      document.querySelectorAll("[data-external-game]").forEach((root) => {
+        const frame = root.querySelector("[data-external-game-frame]");
+        const loader = root.querySelector("[data-external-game-loader]");
+        const button = root.querySelector("[data-load-external-game]");
+        button?.addEventListener("click", () => {
+          const encoded = root.getAttribute("data-game-code");
+          if (!encoded || !frame || frame.getAttribute("src") !== "about:blank") return;
+          frame.setAttribute("src", atob(encoded));
+          frame.setAttribute("loading", "eager");
+          root.classList.add("is-loaded");
+          loader?.setAttribute("aria-hidden", "true");
+        });
+      });
+    })();
+  </script>
 </BaseLayout>

@@ -30,6 +30,7 @@ const articleHeadingOverrides: Record<string, string> = {
   "tile-swap-puzzle-games-guide": "Tile-Swap Puzzle Games Guide",
 };
 const articleHeading = articleHeadingOverrides[article.slug] ?? article.title;
+const articleBodyHtml = article.html.replace(/<h2\b/gi, "<h3").replace(/<\/h2>/gi, "</h3>");
 const articleStructuredData = [
   {
     "@context": "https://schema.org",
@@ -76,7 +77,7 @@ const articleStructuredData = [
 
     <div class="blog-article-shell">
       <main class="blog-article-main">
-        <div class="article-content" set:html={article.html} />
+        <div class="article-content" set:html={articleBodyHtml} />
 
         <section class="article-tags-box" aria-label="Article tags">
           <span class="article-tags-label">Filed under:</span>
@@ -118,7 +119,7 @@ const articleStructuredData = [
 
         {related.length > 0 && (
           <nav class="related-articles" aria-label="Continue reading">
-            <h2>More after {articleHeading}</h2>
+            <h3>More after {articleHeading}</h3>
             <div>
               {related.map((item) => (
                 <a href={`/blog/${item.slug}/`}>

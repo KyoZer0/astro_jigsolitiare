@@ -29,7 +29,7 @@ export const categories = [
         "title": "JigSolitaire Animals1",
         "gridSize": "3x3",
         "difficulty": "Easy",
-        "image": "/levels/Animals/JigSolitaire_Animals1.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals1.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals1.webp"
       },
       {
@@ -37,7 +37,7 @@ export const categories = [
         "title": "JigSolitaire Animals2",
         "gridSize": "3x3",
         "difficulty": "Medium",
-        "image": "/levels/Animals/JigSolitaire_Animals2.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals2.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals2.webp"
       },
       {
@@ -45,7 +45,7 @@ export const categories = [
         "title": "JigSolitaire Animals3",
         "gridSize": "3x4",
         "difficulty": "Hard",
-        "image": "/levels/Animals/JigSolitaire_Animals3.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals3.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals3.webp"
       },
       {
@@ -53,7 +53,7 @@ export const categories = [
         "title": "JigSolitaire Animals4",
         "gridSize": "3x4",
         "difficulty": "Expert",
-        "image": "/levels/Animals/JigSolitaire_Animals4.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals4.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals4.webp"
       },
       {
@@ -61,7 +61,7 @@ export const categories = [
         "title": "JigSolitaire Animals5",
         "gridSize": "3x4",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals5.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals5.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals5.webp"
       },
       {
@@ -69,7 +69,7 @@ export const categories = [
         "title": "JigSolitaire Animals6",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals6.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals6.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals6.webp"
       },
       {
@@ -77,7 +77,7 @@ export const categories = [
         "title": "JigSolitaire Animals7",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals7.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals7.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals7.webp"
       },
       {
@@ -85,7 +85,7 @@ export const categories = [
         "title": "JigSolitaire Animals8",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals8.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals8.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals8.webp"
       },
       {
@@ -93,7 +93,7 @@ export const categories = [
         "title": "JigSolitaire Animals9",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals9.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals9.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals9.webp"
       },
       {
@@ -101,7 +101,7 @@ export const categories = [
         "title": "JigSolitaire Animals10",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals10.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals10.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals10.webp"
       },
       {
@@ -109,7 +109,7 @@ export const categories = [
         "title": "JigSolitaire Animals11",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals11.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals11.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals11.webp"
       },
       {
@@ -117,7 +117,7 @@ export const categories = [
         "title": "JigSolitaire Animals12",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals12.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals12.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals12.webp"
       },
       {
@@ -125,7 +125,7 @@ export const categories = [
         "title": "JigSolitaire Animals13",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals13.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals13.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals13.webp"
       },
       {
@@ -133,7 +133,7 @@ export const categories = [
         "title": "JigSolitaire Animals14",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals14.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals14.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals14.webp"
       },
       {
@@ -141,7 +141,7 @@ export const categories = [
         "title": "JigSolitaire Animals15",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals15.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals15.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals15.webp"
       },
       {
@@ -149,7 +149,7 @@ export const categories = [
         "title": "JigSolitaire Animals16",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals16.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals16.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals16.webp"
       },
       {
@@ -157,7 +157,7 @@ export const categories = [
         "title": "JigSolitaire Animals17",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals17.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals17.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals17.webp"
       },
       {
@@ -165,7 +165,7 @@ export const categories = [
         "title": "JigSolitaire Animals18",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals18.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals18.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals18.webp"
       },
       {
@@ -173,7 +173,7 @@ export const categories = [
         "title": "JigSolitaire Animals19",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals19.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals19.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals19.webp"
       },
       {
@@ -181,7 +181,7 @@ export const categories = [
         "title": "JigSolitaire Animals20",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals20.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals20.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals20.webp"
       },
       {
@@ -189,7 +189,7 @@ export const categories = [
         "title": "JigSolitaire Animals21",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals21.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals21.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals21.webp"
       },
       {
@@ -197,7 +197,7 @@ export const categories = [
         "title": "JigSolitaire Animals22",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals22.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals22.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals22.webp"
       },
       {
@@ -205,7 +205,7 @@ export const categories = [
         "title": "JigSolitaire Animals23",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals23.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals23.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals23.webp"
       },
       {
@@ -213,7 +213,7 @@ export const categories = [
         "title": "JigSolitaire Animals24",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals24.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals24.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals24.webp"
       },
       {
@@ -221,7 +221,7 @@ export const categories = [
         "title": "JigSolitaire Animals25",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals25.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals25.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals25.webp"
       },
       {
@@ -229,7 +229,7 @@ export const categories = [
         "title": "JigSolitaire Animals26",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals26.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals26.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals26.webp"
       },
       {
@@ -237,7 +237,7 @@ export const categories = [
         "title": "JigSolitaire Animals27",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals27.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals27.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals27.webp"
       },
       {
@@ -245,7 +245,7 @@ export const categories = [
         "title": "JigSolitaire Animals28",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals28.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals28.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals28.webp"
       },
       {
@@ -253,7 +253,7 @@ export const categories = [
         "title": "JigSolitaire Animals29",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals29.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals29.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals29.webp"
       },
       {
@@ -261,7 +261,7 @@ export const categories = [
         "title": "JigSolitaire Animals30",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals30.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals30.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals30.webp"
       },
       {
@@ -269,7 +269,7 @@ export const categories = [
         "title": "JigSolitaire Animals31",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Animals/JigSolitaire_Animals31.png",
+        "image": "/levels-game-webp/Animals/JigSolitaire_Animals31.webp",
         "thumbnail": "/level-thumbs/Animals/JigSolitaire_Animals31.webp"
       }
     ]
@@ -286,7 +286,7 @@ export const categories = [
         "title": "JigSolitaire Art1",
         "gridSize": "3x3",
         "difficulty": "Easy",
-        "image": "/levels/Art/JigSolitaire_Art1.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art1.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art1.webp"
       },
       {
@@ -294,7 +294,7 @@ export const categories = [
         "title": "JigSolitaire Art2",
         "gridSize": "3x3",
         "difficulty": "Medium",
-        "image": "/levels/Art/JigSolitaire_Art2.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art2.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art2.webp"
       },
       {
@@ -302,7 +302,7 @@ export const categories = [
         "title": "JigSolitaire Art3",
         "gridSize": "3x4",
         "difficulty": "Hard",
-        "image": "/levels/Art/JigSolitaire_Art3.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art3.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art3.webp"
       },
       {
@@ -310,7 +310,7 @@ export const categories = [
         "title": "JigSolitaire Art4",
         "gridSize": "3x4",
         "difficulty": "Expert",
-        "image": "/levels/Art/JigSolitaire_Art4.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art4.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art4.webp"
       },
       {
@@ -318,7 +318,7 @@ export const categories = [
         "title": "JigSolitaire Art5",
         "gridSize": "3x4",
         "difficulty": "Master",
-        "image": "/levels/Art/JigSolitaire_Art5.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art5.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art5.webp"
       },
       {
@@ -326,7 +326,7 @@ export const categories = [
         "title": "JigSolitaire Art6",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Art/JigSolitaire_Art6.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art6.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art6.webp"
       },
       {
@@ -334,7 +334,7 @@ export const categories = [
         "title": "JigSolitaire Art7",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Art/JigSolitaire_Art7.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art7.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art7.webp"
       },
       {
@@ -342,7 +342,7 @@ export const categories = [
         "title": "JigSolitaire Art8",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Art/JigSolitaire_Art8.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art8.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art8.webp"
       },
       {
@@ -350,7 +350,7 @@ export const categories = [
         "title": "JigSolitaire Art9",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Art/JigSolitaire_Art9.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art9.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art9.webp"
       },
       {
@@ -358,7 +358,7 @@ export const categories = [
         "title": "JigSolitaire Art10",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Art/JigSolitaire_Art10.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art10.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art10.webp"
       },
       {
@@ -366,7 +366,7 @@ export const categories = [
         "title": "JigSolitaire Art11",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Art/JigSolitaire_Art11.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art11.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art11.webp"
       },
       {
@@ -374,7 +374,7 @@ export const categories = [
         "title": "JigSolitaire Art12",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Art/JigSolitaire_Art12.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art12.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art12.webp"
       },
       {
@@ -382,7 +382,7 @@ export const categories = [
         "title": "JigSolitaire Art13",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Art/JigSolitaire_Art13.png",
+        "image": "/levels-game-webp/Art/JigSolitaire_Art13.webp",
         "thumbnail": "/level-thumbs/Art/JigSolitaire_Art13.webp"
       }
     ]
@@ -399,7 +399,7 @@ export const categories = [
         "title": "JigSolitaire Cities1",
         "gridSize": "3x3",
         "difficulty": "Easy",
-        "image": "/levels/Cities/JigSolitaire_Cities1.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities1.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities1.webp"
       },
       {
@@ -407,7 +407,7 @@ export const categories = [
         "title": "JigSolitaire Cities2",
         "gridSize": "3x3",
         "difficulty": "Medium",
-        "image": "/levels/Cities/JigSolitaire_Cities2.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities2.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities2.webp"
       },
       {
@@ -415,7 +415,7 @@ export const categories = [
         "title": "JigSolitaire Cities3",
         "gridSize": "3x4",
         "difficulty": "Hard",
-        "image": "/levels/Cities/JigSolitaire_Cities3.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities3.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities3.webp"
       },
       {
@@ -423,7 +423,7 @@ export const categories = [
         "title": "JigSolitaire Cities4",
         "gridSize": "3x4",
         "difficulty": "Expert",
-        "image": "/levels/Cities/JigSolitaire_Cities4.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities4.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities4.webp"
       },
       {
@@ -431,7 +431,7 @@ export const categories = [
         "title": "JigSolitaire Cities5",
         "gridSize": "3x4",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities5.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities5.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities5.webp"
       },
       {
@@ -439,7 +439,7 @@ export const categories = [
         "title": "JigSolitaire Cities6",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities6.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities6.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities6.webp"
       },
       {
@@ -447,7 +447,7 @@ export const categories = [
         "title": "JigSolitaire Cities7",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities7.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities7.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities7.webp"
       },
       {
@@ -455,7 +455,7 @@ export const categories = [
         "title": "JigSolitaire Cities8",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities8.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities8.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities8.webp"
       },
       {
@@ -463,7 +463,7 @@ export const categories = [
         "title": "JigSolitaire Cities9",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities9.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities9.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities9.webp"
       },
       {
@@ -471,7 +471,7 @@ export const categories = [
         "title": "JigSolitaire Cities10",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities10.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities10.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities10.webp"
       },
       {
@@ -479,7 +479,7 @@ export const categories = [
         "title": "JigSolitaire Cities11",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities11.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities11.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities11.webp"
       },
       {
@@ -487,7 +487,7 @@ export const categories = [
         "title": "JigSolitaire Cities12",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities12.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities12.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities12.webp"
       },
       {
@@ -495,7 +495,7 @@ export const categories = [
         "title": "JigSolitaire Cities13",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities13.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities13.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities13.webp"
       },
       {
@@ -503,7 +503,7 @@ export const categories = [
         "title": "JigSolitaire Cities14",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities14.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities14.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities14.webp"
       },
       {
@@ -511,7 +511,7 @@ export const categories = [
         "title": "JigSolitaire Cities15",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities15.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities15.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities15.webp"
       },
       {
@@ -519,7 +519,7 @@ export const categories = [
         "title": "JigSolitaire Cities16",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities16.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities16.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities16.webp"
       },
       {
@@ -527,7 +527,7 @@ export const categories = [
         "title": "JigSolitaire Cities17",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities17.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities17.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities17.webp"
       },
       {
@@ -535,7 +535,7 @@ export const categories = [
         "title": "JigSolitaire Cities18",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities18.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities18.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities18.webp"
       },
       {
@@ -543,7 +543,7 @@ export const categories = [
         "title": "JigSolitaire Cities19",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities19.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities19.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities19.webp"
       },
       {
@@ -551,7 +551,7 @@ export const categories = [
         "title": "JigSolitaire Cities20",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities20.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities20.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities20.webp"
       },
       {
@@ -559,7 +559,7 @@ export const categories = [
         "title": "JigSolitaire Cities21",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities21.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities21.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities21.webp"
       },
       {
@@ -567,7 +567,7 @@ export const categories = [
         "title": "JigSolitaire Cities22",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities22.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities22.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities22.webp"
       },
       {
@@ -575,7 +575,7 @@ export const categories = [
         "title": "JigSolitaire Cities23",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities23.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities23.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities23.webp"
       },
       {
@@ -583,7 +583,7 @@ export const categories = [
         "title": "JigSolitaire Cities24",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities24.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities24.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities24.webp"
       },
       {
@@ -591,7 +591,7 @@ export const categories = [
         "title": "JigSolitaire Cities25",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities25.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities25.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities25.webp"
       },
       {
@@ -599,7 +599,7 @@ export const categories = [
         "title": "JigSolitaire Cities26",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities26.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities26.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities26.webp"
       },
       {
@@ -607,7 +607,7 @@ export const categories = [
         "title": "JigSolitaire Cities27",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities27.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities27.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities27.webp"
       },
       {
@@ -615,7 +615,7 @@ export const categories = [
         "title": "JigSolitaire Cities28",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities28.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities28.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities28.webp"
       },
       {
@@ -623,7 +623,7 @@ export const categories = [
         "title": "JigSolitaire Cities29",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities29.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities29.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities29.webp"
       },
       {
@@ -631,7 +631,7 @@ export const categories = [
         "title": "JigSolitaire Cities30",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities30.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities30.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities30.webp"
       },
       {
@@ -639,7 +639,7 @@ export const categories = [
         "title": "JigSolitaire Cities31",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities31.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities31.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities31.webp"
       },
       {
@@ -647,7 +647,7 @@ export const categories = [
         "title": "JigSolitaire Cities32",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities32.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities32.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities32.webp"
       },
       {
@@ -655,7 +655,7 @@ export const categories = [
         "title": "JigSolitaire Cities33",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities33.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities33.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities33.webp"
       },
       {
@@ -663,7 +663,7 @@ export const categories = [
         "title": "JigSolitaire Cities34",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities34.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities34.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities34.webp"
       },
       {
@@ -671,7 +671,7 @@ export const categories = [
         "title": "JigSolitaire Cities35",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities35.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities35.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities35.webp"
       },
       {
@@ -679,7 +679,7 @@ export const categories = [
         "title": "JigSolitaire Cities36",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities36.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities36.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities36.webp"
       },
       {
@@ -687,7 +687,7 @@ export const categories = [
         "title": "JigSolitaire Cities37",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Cities/JigSolitaire_Cities37.png",
+        "image": "/levels-game-webp/Cities/JigSolitaire_Cities37.webp",
         "thumbnail": "/level-thumbs/Cities/JigSolitaire_Cities37.webp"
       }
     ]
@@ -704,7 +704,7 @@ export const categories = [
         "title": "JigSolitaire Food1",
         "gridSize": "3x3",
         "difficulty": "Easy",
-        "image": "/levels/Food/JigSolitaire_Food1.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food1.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food1.webp"
       },
       {
@@ -712,7 +712,7 @@ export const categories = [
         "title": "JigSolitaire Food2",
         "gridSize": "3x3",
         "difficulty": "Medium",
-        "image": "/levels/Food/JigSolitaire_Food2.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food2.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food2.webp"
       },
       {
@@ -720,7 +720,7 @@ export const categories = [
         "title": "JigSolitaire Food3",
         "gridSize": "3x4",
         "difficulty": "Hard",
-        "image": "/levels/Food/JigSolitaire_Food3.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food3.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food3.webp"
       },
       {
@@ -728,7 +728,7 @@ export const categories = [
         "title": "JigSolitaire Food4",
         "gridSize": "3x4",
         "difficulty": "Expert",
-        "image": "/levels/Food/JigSolitaire_Food4.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food4.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food4.webp"
       },
       {
@@ -736,7 +736,7 @@ export const categories = [
         "title": "JigSolitaire Food5",
         "gridSize": "3x4",
         "difficulty": "Master",
-        "image": "/levels/Food/JigSolitaire_Food5.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food5.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food5.webp"
       },
       {
@@ -744,7 +744,7 @@ export const categories = [
         "title": "JigSolitaire Food6",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Food/JigSolitaire_Food6.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food6.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food6.webp"
       },
       {
@@ -752,7 +752,7 @@ export const categories = [
         "title": "JigSolitaire Food7",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Food/JigSolitaire_Food7.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food7.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food7.webp"
       },
       {
@@ -760,7 +760,7 @@ export const categories = [
         "title": "JigSolitaire Food8",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Food/JigSolitaire_Food8.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food8.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food8.webp"
       },
       {
@@ -768,7 +768,7 @@ export const categories = [
         "title": "JigSolitaire Food9",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Food/JigSolitaire_Food9.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food9.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food9.webp"
       },
       {
@@ -776,7 +776,7 @@ export const categories = [
         "title": "JigSolitaire Food10",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Food/JigSolitaire_Food10.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food10.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food10.webp"
       },
       {
@@ -784,7 +784,7 @@ export const categories = [
         "title": "JigSolitaire Food11",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Food/JigSolitaire_Food11.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food11.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food11.webp"
       },
       {
@@ -792,7 +792,7 @@ export const categories = [
         "title": "JigSolitaire Food12",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Food/JigSolitaire_Food12.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food12.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food12.webp"
       },
       {
@@ -800,7 +800,7 @@ export const categories = [
         "title": "JigSolitaire Food13",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Food/JigSolitaire_Food13.png",
+        "image": "/levels-game-webp/Food/JigSolitaire_Food13.webp",
         "thumbnail": "/level-thumbs/Food/JigSolitaire_Food13.webp"
       }
     ]
@@ -817,7 +817,7 @@ export const categories = [
         "title": "JigSolitaire Nature1",
         "gridSize": "3x3",
         "difficulty": "Easy",
-        "image": "/levels/Nature/JigSolitaire_Nature1.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature1.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature1.webp"
       },
       {
@@ -825,7 +825,7 @@ export const categories = [
         "title": "JigSolitaire Nature2",
         "gridSize": "3x3",
         "difficulty": "Medium",
-        "image": "/levels/Nature/JigSolitaire_Nature2.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature2.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature2.webp"
       },
       {
@@ -833,7 +833,7 @@ export const categories = [
         "title": "JigSolitaire Nature3",
         "gridSize": "3x4",
         "difficulty": "Hard",
-        "image": "/levels/Nature/JigSolitaire_Nature3.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature3.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature3.webp"
       },
       {
@@ -841,7 +841,7 @@ export const categories = [
         "title": "JigSolitaire Nature4",
         "gridSize": "3x4",
         "difficulty": "Expert",
-        "image": "/levels/Nature/JigSolitaire_Nature4.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature4.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature4.webp"
       },
       {
@@ -849,7 +849,7 @@ export const categories = [
         "title": "JigSolitaire Nature5",
         "gridSize": "3x4",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature5.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature5.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature5.webp"
       },
       {
@@ -857,7 +857,7 @@ export const categories = [
         "title": "JigSolitaire Nature6",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature6.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature6.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature6.webp"
       },
       {
@@ -865,7 +865,7 @@ export const categories = [
         "title": "JigSolitaire Nature7",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature7.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature7.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature7.webp"
       },
       {
@@ -873,7 +873,7 @@ export const categories = [
         "title": "JigSolitaire Nature8",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature8.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature8.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature8.webp"
       },
       {
@@ -881,7 +881,7 @@ export const categories = [
         "title": "JigSolitaire Nature9",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature9.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature9.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature9.webp"
       },
       {
@@ -889,7 +889,7 @@ export const categories = [
         "title": "JigSolitaire Nature10",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature10.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature10.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature10.webp"
       },
       {
@@ -897,7 +897,7 @@ export const categories = [
         "title": "JigSolitaire Nature11",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature11.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature11.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature11.webp"
       },
       {
@@ -905,7 +905,7 @@ export const categories = [
         "title": "JigSolitaire Nature12",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature12.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature12.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature12.webp"
       },
       {
@@ -913,7 +913,7 @@ export const categories = [
         "title": "JigSolitaire Nature13",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature13.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature13.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature13.webp"
       },
       {
@@ -921,7 +921,7 @@ export const categories = [
         "title": "JigSolitaire Nature14",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature14.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature14.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature14.webp"
       },
       {
@@ -929,7 +929,7 @@ export const categories = [
         "title": "JigSolitaire Nature15",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature15.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature15.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature15.webp"
       },
       {
@@ -937,7 +937,7 @@ export const categories = [
         "title": "JigSolitaire Nature16",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature16.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature16.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature16.webp"
       },
       {
@@ -945,7 +945,7 @@ export const categories = [
         "title": "JigSolitaire Nature17",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature17.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature17.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature17.webp"
       },
       {
@@ -953,7 +953,7 @@ export const categories = [
         "title": "JigSolitaire Nature18",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature18.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature18.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature18.webp"
       },
       {
@@ -961,7 +961,7 @@ export const categories = [
         "title": "JigSolitaire Nature19",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature19.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature19.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature19.webp"
       },
       {
@@ -969,7 +969,7 @@ export const categories = [
         "title": "JigSolitaire Nature20",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature20.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature20.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature20.webp"
       },
       {
@@ -977,7 +977,7 @@ export const categories = [
         "title": "JigSolitaire Nature21",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature21.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature21.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature21.webp"
       },
       {
@@ -985,7 +985,7 @@ export const categories = [
         "title": "JigSolitaire Nature22",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature22.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature22.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature22.webp"
       },
       {
@@ -993,7 +993,7 @@ export const categories = [
         "title": "JigSolitaire Nature23",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature23.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature23.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature23.webp"
       },
       {
@@ -1001,7 +1001,7 @@ export const categories = [
         "title": "JigSolitaire Nature24",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature24.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature24.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature24.webp"
       },
       {
@@ -1009,7 +1009,7 @@ export const categories = [
         "title": "JigSolitaire Nature25",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature25.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature25.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature25.webp"
       },
       {
@@ -1017,7 +1017,7 @@ export const categories = [
         "title": "JigSolitaire Nature26",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature26.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature26.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature26.webp"
       },
       {
@@ -1025,7 +1025,7 @@ export const categories = [
         "title": "JigSolitaire Nature27",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature27.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature27.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature27.webp"
       },
       {
@@ -1033,7 +1033,7 @@ export const categories = [
         "title": "JigSolitaire Nature28",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature28.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature28.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature28.webp"
       },
       {
@@ -1041,7 +1041,7 @@ export const categories = [
         "title": "JigSolitaire Nature29",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature29.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature29.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature29.webp"
       },
       {
@@ -1049,7 +1049,7 @@ export const categories = [
         "title": "JigSolitaire Nature30",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature30.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature30.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature30.webp"
       },
       {
@@ -1057,7 +1057,7 @@ export const categories = [
         "title": "JigSolitaire Nature31",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature31.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature31.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature31.webp"
       },
       {
@@ -1065,7 +1065,7 @@ export const categories = [
         "title": "JigSolitaire Nature32",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature32.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature32.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature32.webp"
       },
       {
@@ -1073,7 +1073,7 @@ export const categories = [
         "title": "JigSolitaire Nature33",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature33.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature33.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature33.webp"
       },
       {
@@ -1081,7 +1081,7 @@ export const categories = [
         "title": "JigSolitaire Nature34",
         "gridSize": "3x5",
         "difficulty": "Master",
-        "image": "/levels/Nature/JigSolitaire_Nature34.png",
+        "image": "/levels-game-webp/Nature/JigSolitaire_Nature34.webp",
         "thumbnail": "/level-thumbs/Nature/JigSolitaire_Nature34.webp"
       }
     ]
@@ -1098,7 +1098,7 @@ export const categories = [
         "title": "JigSolitaire Space1",
         "gridSize": "3x3",
         "difficulty": "Easy",
-        "image": "/levels/Space/JigSolitaire_Space1.png",
+        "image": "/levels-game-webp/Space/JigSolitaire_Space1.webp",
         "thumbnail": "/level-thumbs/Space/JigSolitaire_Space1.webp"
       },
       {
@@ -1106,7 +1106,7 @@ export const categories = [
         "title": "JigSolitaire Space2",
         "gridSize": "3x3",
         "difficulty": "Medium",
-        "image": "/levels/Space/JigSolitaire_Space2.png",
+        "image": "/levels-game-webp/Space/JigSolitaire_Space2.webp",
         "thumbnail": "/level-thumbs/Space/JigSolitaire_Space2.webp"
       },
       {
@@ -1114,7 +1114,7 @@ export const categories = [
         "title": "JigSolitaire Space3",
         "gridSize": "3x4",
         "difficulty": "Hard",
-        "image": "/levels/Space/JigSolitaire_Space3.png",
+        "image": "/levels-game-webp/Space/JigSolitaire_Space3.webp",
         "thumbnail": "/level-thumbs/Space/JigSolitaire_Space3.webp"
       }
     ]
@@ -1131,7 +1131,7 @@ export const categories = [
         "title": "JigSolitaire Fantasy1",
         "gridSize": "3x3",
         "difficulty": "Easy",
-        "image": "/levels/Fantasy/JigSolitaire_Fantasy1.png",
+        "image": "/levels-game-webp/Fantasy/JigSolitaire_Fantasy1.webp",
         "thumbnail": "/level-thumbs/Fantasy/JigSolitaire_Fantasy1.webp"
       },
       {
@@ -1139,7 +1139,7 @@ export const categories = [
         "title": "JigSolitaire Fantasy2",
         "gridSize": "3x3",
         "difficulty": "Medium",
-        "image": "/levels/Fantasy/JigSolitaire_Fantasy2.png",
+        "image": "/levels-game-webp/Fantasy/JigSolitaire_Fantasy2.webp",
         "thumbnail": "/level-thumbs/Fantasy/JigSolitaire_Fantasy2.webp"
       },
       {
@@ -1147,7 +1147,7 @@ export const categories = [
         "title": "JigSolitaire Fantasy3",
         "gridSize": "3x4",
         "difficulty": "Hard",
-        "image": "/levels/Fantasy/JigSolitaire_Fantasy3.png",
+        "image": "/levels-game-webp/Fantasy/JigSolitaire_Fantasy3.webp",
         "thumbnail": "/level-thumbs/Fantasy/JigSolitaire_Fantasy3.webp"
       }
     ]

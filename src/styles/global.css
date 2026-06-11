@@ -992,7 +992,8 @@
     margin-bottom: clamp(1.1rem, 2.4vw, 1.8rem);
   }
 
-  .home-section-head h2 {
+  .home-section-head h2,
+  .home-section-head h3 {
     margin: 0;
     color: var(--color-ink);
     font-size: clamp(1.65rem, 3.2vw, 2.55rem);
@@ -1225,7 +1226,8 @@
     padding: clamp(0.2rem, 1vw, 0.6rem) 0;
   }
 
-  .blog-editorial .home-section-head h2 {
+  .blog-editorial .home-section-head h2,
+  .blog-editorial .home-section-head h3 {
     color: var(--color-ink);
   }
 
@@ -1366,7 +1368,8 @@
     box-shadow: 0 22px 60px rgb(15 23 42 / 0.08);
   }
 
-  .faq-cardlet h2 {
+  .faq-cardlet h2,
+  .faq-cardlet h3 {
     margin: 0;
     color: var(--color-ink);
     font-size: clamp(1.55rem, 2.6vw, 2.15rem);
@@ -1476,7 +1479,8 @@
     color: var(--color-game-gold);
   }
 
-  .home-cta h2 {
+  .home-cta h2,
+  .home-cta h3 {
     margin: 0;
     max-width: 620px;
     font-size: clamp(1.45rem, 3vw, 2.35rem);
@@ -1501,7 +1505,8 @@
     margin-bottom: 1.5rem;
   }
 
-  .section-head h2 {
+  .section-head h2,
+  .section-head h3 {
     margin: 0;
     max-width: 760px;
     color: var(--color-ink);
@@ -1645,7 +1650,8 @@
     text-transform: uppercase;
   }
 
-  .level-hero-card h2 {
+  .level-hero-card h2,
+  .level-hero-card h3 {
     margin: 0;
     color: var(--color-ink);
     font-size: clamp(1.7rem, 4vw, 3rem);
@@ -1740,6 +1746,7 @@
 
   .article-card h2,
   .article-card h3,
+  .article-card h3,
   .feature-grid h3 {
     margin: 0.55rem 0;
     color: var(--color-ink);
@@ -1817,7 +1824,8 @@
     text-transform: uppercase;
   }
 
-  .site-game-card h2 {
+  .site-game-card h2,
+  .site-game-card h3 {
     margin: 0.35rem 0 0.5rem;
     max-width: 520px;
     font-size: clamp(1.2rem, 2.2vw, 1.8rem);
@@ -1871,6 +1879,7 @@
   }
 
   .embedded-game-frame {
+    position: relative;
     height: min(76vh, 760px);
     min-height: 560px;
     overflow: hidden;
@@ -1885,6 +1894,56 @@
     width: 100%;
     height: 100%;
     border: 0;
+  }
+
+  .embedded-game-loader {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    padding: clamp(1rem, 3vw, 2rem);
+    background:
+      radial-gradient(circle at 16% 18%, rgb(255 94 77 / 0.2), transparent 18rem),
+      radial-gradient(circle at 86% 12%, rgb(32 184 216 / 0.18), transparent 18rem),
+      linear-gradient(135deg, #fff, #f8fbff);
+    text-align: center;
+  }
+
+  .embedded-game-loader img {
+    width: min(520px, 86%);
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border: 6px solid #fff;
+    border-radius: 24px;
+    box-shadow: 0 22px 60px rgb(15 23 42 / 0.14);
+  }
+
+  .embedded-game-loader div {
+    display: grid;
+    justify-items: center;
+    gap: 0.7rem;
+    margin-top: 1rem;
+  }
+
+  .embedded-game-loader span {
+    color: var(--color-game-coral);
+    font-size: 0.78rem;
+    font-weight: 950;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .embedded-game-loader strong {
+    color: var(--color-ink);
+    font-size: clamp(1.45rem, 3vw, 2.3rem);
+    font-weight: 950;
+    line-height: 1;
+  }
+
+  .embedded-game-frame.is-loaded .embedded-game-loader {
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.2s ease;
   }
 
   .article-card p,
@@ -2301,7 +2360,7 @@
   }
 
   .comment-box h3,
-  .related-articles h2 {
+  .related-articles h3 {
     margin: 0 0 0.45rem;
     color: var(--color-ink);
     font-size: 1.35rem;
@@ -2530,7 +2589,8 @@
   }
 
   .play-info-head h1,
-  .play-split-section h2 {
+  .play-split-section h2,
+  .play-split-section h3 {
     margin: 0;
     color: var(--color-ink);
     font-size: clamp(1.75rem, 3.4vw, 2.85rem);
@@ -2575,7 +2635,8 @@
     box-shadow: 0 6px 0 var(--color-game-coral-dark), 0 10px 18px rgb(255 94 77 / 0.2);
   }
 
-  .play-step-grid h2 {
+  .play-step-grid h2,
+  .play-step-grid h3 {
     margin: 0 0 0.45rem;
     color: var(--color-ink);
     font-size: clamp(1.2rem, 2vw, 1.55rem);
@@ -2729,14 +2790,14 @@
     padding-left: 1.25rem;
   }
 
-  .article-content h2 {
+  .article-content h3 {
     margin: 2rem 0 0.65rem;
     color: var(--color-ink);
     font-size: clamp(1.25rem, 2vw, 1.62rem);
     line-height: 1.18;
   }
 
-  .article-content h3 {
+  .article-content h4 {
     margin: 1.35rem 0 0.4rem;
     color: var(--color-ink);
     font-size: 1.12rem;
@@ -2997,7 +3058,8 @@
       padding-block: 2.4rem;
     }
 
-    .home-section-head h2 {
+    .home-section-head h2,
+    .home-section-head h3 {
       font-size: clamp(1.85rem, 10vw, 2.7rem);
     }
 

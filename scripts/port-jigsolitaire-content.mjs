@@ -5,7 +5,6 @@ const root = process.cwd();
 const sourceRoot = "C:\\Users\\Administrateur\\Documents\\Projects-LA\\JigSolitaire";
 const appRoot = path.join(sourceRoot, "app");
 const blogRoot = path.join(appRoot, "blog");
-const publicRoot = path.join(root, "public");
 
 const read = (file) => fs.readFileSync(file, "utf8");
 const write = (file, content) => {
@@ -173,7 +172,7 @@ const categoryMetadata = {
 };
 
 const difficulty = ["Easy", "Medium", "Hard", "Expert", "Master"];
-const levelsDir = path.join(publicRoot, "levels");
+const levelsDir = path.join(root, "asset-source", "levels-original");
 const categories = [];
 let id = 1;
 const categoryOrder = ["Animals", "Art", "Cities", "Food", "Nature", "Space", "Fantasy"];
@@ -203,7 +202,7 @@ for (const folder of categoryFolders.sort((a, b) => {
         title: base.replace(/[_-]/g, " ").replace(/\b\w/g, (char) => char.toUpperCase()),
         gridSize: index < 2 ? "3x3" : index < 5 ? "3x4" : "3x5",
         difficulty: difficulty[Math.min(index, difficulty.length - 1)],
-        image: `/levels/${folder}/${file}`,
+        image: `/levels-game-webp/${folder}/${file.replace(/\.(png|jpe?g)$/i, ".webp")}`,
         thumbnail: `/level-thumbs/${folder}/${base}.webp`,
       };
     }),
